@@ -1,3 +1,4 @@
+<div align="center">
 <img align="right" src="https://komarev.com/ghpvc/?username=AbdulkerimCanBRY&label=Profile%20views&color=373737&style=flat-square" />
 
 <div align="center">
@@ -5,6 +6,7 @@
     align="center" 
     width="100%" 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF6AAA00&center=true&vCenter=true&multiline=true&width=600&height=45&lines=Hi,+I'm+Abdulkerim."
+
   >
 </div>
 
@@ -15,7 +17,10 @@
 
 ### 👨‍💻 About Me
 
-_Let me first introduce myself. I'm Abdulkerim. I'm 19 years old. I'm a passionate developer at the intersection of art and technology. I focus specifically on game development, 3D modeling, and web technologies. I love learning new things, solving problems, and bringing my ideas to life in the digital world._
+  _Let me first introduce myself. I'm Abdulkerim. I'm 19 years old. I'm a passionate developer at the intersection of art and technology. I focus specifically on game development, 3D modeling, and web technologies. I love learning new things, solving problems, and bringing my ideas to life in the digital world._
+
+  <div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="50px">
 
 ---
 
@@ -55,8 +60,9 @@ _Let me first introduce myself. I'm Abdulkerim. I'm 19 years old. I'm a passiona
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulkerimCanBRY&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulkerimCanBRY&langs_count=8&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulkerimCanBRY&show_icons=false&theme=midnight-purple&hide_border=true&bg_color=0D1117">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulkerimCanBRY&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact&bg_color=0D1117">
+
 </p>
 
 ---
@@ -64,9 +70,10 @@ _Let me first introduce myself. I'm Abdulkerim. I'm 19 years old. I'm a passiona
 ### 🎧 I'm Listening Right Now
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ejhbuv0iagr9btp0oryaq3yp1&redirect=true">
-    <img width="65%" src="https://spotify-github-profile.onrender.com/card?uid=ejhbuv0iagr9btp0oryaq3yp1&theme=elite">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ejhbuv0iagr9btp0oryaq3yp1&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=true&bar_color=53b14f&bar_color_cover=false">
   </a>
 </p>
+
 
 ---
 
