@@ -11,9 +11,6 @@
 </div>
 
 ---
-<div align="center">
-
-⭐️ From [@AbdulkerimCanBRY](https://github.com/AbdulkerimCanBRY)
 
 ### 👨‍💻 About Me
 
@@ -38,6 +35,10 @@
   <a href="https://steamcommunity.com/profiles/76561198874677239/" target="_blank">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
   </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/abdulkerim-can-72b175381/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
@@ -60,8 +61,8 @@
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulkerimCanBRY&show_icons=false&theme=midnight-purple&hide_border=true&bg_color=0D1117">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulkerimCanBRY&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact&bg_color=0D1117">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulkerimCanBRY&show_icons=false&theme=dark&hide_border=true&bg_color=0D1117">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulkerimCanBRY&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact&bg_color=0D1117">
 
 </p>
 
